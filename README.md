@@ -34,12 +34,12 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/MAgalDI02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAgalDI02&theme=gotham&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgalDI02&layout=compact&theme=gotham"/>
+  <a href="https://github.com/Magaldi2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magaldi2&theme=gotham&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magaldi2&layout=compact&theme=gotham"/>
 </div>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAgalDI02&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Magaldi2&color=blueviolet" alt="Profile views" /> </p>
 
 
 
