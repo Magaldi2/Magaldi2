@@ -1,7 +1,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Lucas!</h1>
 
 <p align="left"> 
-      Olá! Meu nome é Lucas e tenho 20 anos. Sou <strong>programador</strong> e estudante de <strong>Engenharia da Computação na PUCCampinas </strong>, ultimamente com muito interesse na área de <strong>IA (Inteligência Artificial) e Análise de Dados</strong>.
+      Olá! Meu nome é Lucas e tenho 21 anos. Sou <strong>programador</strong> e estudante de <strong>Engenharia da Computação na PUCCampinas </strong>, ultimamente com muito interesse na área de <strong>IA (Inteligência Artificial) e Análise de Dados</strong>.
 </p>
 <h2>Minhas Redes Sociais para Contato :</h2>
 <p align="left">
